@@ -6,12 +6,10 @@
 - [EN](#en)
 - [PT-BR](#pt-br)
 
-
 # EN
 
 ## Index
 
-- [Index](#index)
 - [Description](#description)
 - [Functionalities](#functionalities)
 - [Demonstration](#demonstration)
@@ -74,7 +72,6 @@ After downloading the project:
 
 ## Índice
 
-- [Índice](#índice)
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Demonstração](#demonstração)
